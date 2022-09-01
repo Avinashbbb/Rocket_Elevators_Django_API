@@ -21,12 +21,12 @@ Step 3 = Select form-data.
 step 4 = In the key colomn type "photo" and change the text to file and upload the photo.
 step 5 = Click send!
 
-### Thrid API
-
+### Thrid API (post)
+http://127.0.0.1:8000/employeesbyphoto/
 This api deals with the post api.
 
 How to post the employee in postman?
-Step 1 = select Get and enter the url.
+Step 1 = select post and enter the url.
 Step 2 = Select Body tag.
 Step 3 = Select form-data.
 step 4 = In the key colomn type "photo" and change the text to file and upload the photo.
