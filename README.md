@@ -7,11 +7,11 @@ How to use our API.
 
 
 ### First API
-http://127.0.0.1:8000/employees/
+https://apirocketai.herokuapp.com/employees/
 
 This Api gives you a list of all employees 
 ### Second API
-http://127.0.0.1:8000/employeesbyphoto/
+https://apirocketai.herokuapp.com/employeesbyphoto/
 This Api gives you a the details of the employee photo that was uploded.
 
 How to upload the photo in postman?
@@ -22,7 +22,7 @@ step 4 = In the key colomn type "photo" and change the text to filel and upload 
 step 5 = Click send!
 
 ### Thrid API (post)
-http://127.0.0.1:8000/employeesbyphoto/
+https://apirocketai.herokuapp.com/employeesbyphoto/
 This api deals with the post api.
 
 How to post the employee in postman?
