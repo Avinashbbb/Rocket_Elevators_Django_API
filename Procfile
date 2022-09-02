@@ -1,1 +1,1 @@
-web gunicorn Rocket_ElevatorsDjango_API:application --log-file -
+web gunicorn myapi:application --log-file -
