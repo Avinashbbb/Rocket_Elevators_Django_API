@@ -1,1 +1,1 @@
-web gunicorn rocket_elevators_django_api.wsgi:application --log-file -
+web gunicorn myapi.wsgi:application --log-file -
