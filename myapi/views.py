@@ -1,4 +1,4 @@
-from tkinter import Image
+# from tkinter import Image
 from attr import attributes
 from django.http import JsonResponse
 from .models import Employees
