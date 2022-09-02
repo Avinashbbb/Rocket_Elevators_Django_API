@@ -18,7 +18,7 @@ How to upload the photo in postman?
 Step 1 = select Get and enter the url.
 Step 2 = Select Body tag.
 Step 3 = Select form-data.
-step 4 = In the key colomn type "photo" and change the text to file and upload the photo.
+step 4 = In the key colomn type "photo" and change the text to filel and upload the photo.
 step 5 = Click send!
 
 ### Thrid API (post)
